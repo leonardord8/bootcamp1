@@ -1,0 +1,30 @@
+section h3{
+	text-align: center;
+	display: none;
+
+}
+
+section{
+	text-align: center;
+}
+#response.error{
+    background-color: red;
+    height: 30px;
+}
+section.spotify{
+	margin-left: 80%;
+}
+section#bloque{
+	margin-right: 80%;
+}
+body{
+	width: 100%;
+}
+
+div#botones{
+	width: 100%;
+}
+
+#spot{
+	margin-left: 80%;
+}
